@@ -4,6 +4,15 @@ C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\Vari
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.csprojResolveAssemblyReference.cache
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.exe
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.pdb
+<<<<<<< HEAD
 C:\Users\Alejandra\Desktop\prueba\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.exe.config
 C:\Users\Alejandra\Desktop\prueba\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.exe
 C:\Users\Alejandra\Desktop\prueba\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.pdb
+=======
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.exe.config
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.exe
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.pdb
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.exe
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.pdb
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.csprojResolveAssemblyReference.cache
+>>>>>>> 1c46f75ca236110c19c0b51e2d49d25becedd8e3
