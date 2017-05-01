@@ -10,14 +10,15 @@ namespace VarianzaDesviacion
     {
        public static void Main(string[] args)
         {
-            int suma = 0;
+            float suma = 0;
 
             Console.Write("¿De que tamaño desea el vector?");
             int v = int.Parse(Console.ReadLine());
 
-            int[] vector = new int[v];
-            int[] vVector = new int[v];
-            int varianza = 0;
+            float[] vector = new float[v];
+            float[] vVector = new float[v];
+            float varianza = 0, var = 0, m = 0, a1=0, a2=0;
+
 
             for (int i = 0; i < v; i++)
             {
@@ -30,17 +31,30 @@ namespace VarianzaDesviacion
             {
                 suma = suma + vector[i];               
             }
-            double media = suma / v;
+            float media = suma / v;
+
             for (int i = 0; i < v; i++){
-                int a = vector[i] - Convert.ToInt16(media);
-                vVector[i] = a * a;
+                float t = vector[i] - media;
+                vVector[i] = t * t;
             }
             for (int i=0; i<v; i++){
-                varianza += vVector[i];
+                varianza = varianza + vVector[i];
             }
             varianza = varianza / v;
+
+            do
+            {
+                var = var + 0.1F;
+                m = var * var;
+            } while (m <= varianza);
+            a1 = var;
+            a2 = varianza;
+            a2 = a2 / a1;
+            a2 = a2 + a1;
+            a2 = a2 / 2;
+
+            Console.WriteLine("La desviación estándar es:" + a2);
             Console.WriteLine("La varianza es: " + varianza);
-            Console.WriteLine("La suma es: {0} ", suma);
             Console.WriteLine("La media es: " + media);
             Console.ReadLine();
 
