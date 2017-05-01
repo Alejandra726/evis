@@ -58,14 +58,6 @@ namespace VarianzaDesviacion
             Console.WriteLine("La media es: " + media);
             Console.ReadLine();
 
-        //    public static void ordenar()
-        //    {
-        //    int cambio;
-        //    for(int i=0; i<v; i++)
-        //    {
-
-        //    }
-        //}
         }
     }
 }
