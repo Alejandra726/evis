@@ -4,3 +4,9 @@ C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\Vari
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.csprojResolveAssemblyReference.cache
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.exe
 C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.pdb
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.exe.config
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.exe
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.pdb
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.exe
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\bin\Debug\VarianzaDesviacion.pdb
+C:\Users\Pablo Mazo\Desktop\Mona\evis\VarianzaDesviacion\VarianzaDesviacion\obj\Debug\VarianzaDesviacion.csprojResolveAssemblyReference.cache

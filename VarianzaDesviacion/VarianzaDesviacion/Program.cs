@@ -40,7 +40,8 @@ namespace VarianzaDesviacion
             //}
 
             double media = suma / v;
-            Console.WriteLine("la suma es: {0} ", suma);
+            Console.WriteLine("La suma es: {0} ", suma);
+            Console.WriteLine("La media es: " + media);
             Console.ReadLine();
 
         //    public static void ordenar()
