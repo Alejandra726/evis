@@ -16,6 +16,8 @@ namespace VarianzaDesviacion
             int v = int.Parse(Console.ReadLine());
 
             int[] vector = new int[v];
+            int[] vVector = new int[v];
+            int varianza = 0;
 
             for (int i = 0; i < v; i++)
             {
@@ -28,18 +30,16 @@ namespace VarianzaDesviacion
             {
                 suma = suma + vector[i];               
             }
-
-            //int n = 0, val = 0, rep = 0;
-            //for (int m = 0; m < v; m++)
-            //{
-            //    n = vector[m];
-            //    if (rep<)
-            //    {
-
-            //    }
-            //}
-
             double media = suma / v;
+            for (int i = 0; i < v; i++){
+                int a = vector[i] - Convert.ToInt16(media);
+                vVector[i] = a * a;
+            }
+            for (int i=0; i<v; i++){
+                varianza += vVector[i];
+            }
+            varianza = varianza / v;
+            Console.WriteLine("La varianza es: " + varianza);
             Console.WriteLine("La suma es: {0} ", suma);
             Console.WriteLine("La media es: " + media);
             Console.ReadLine();
